@@ -1,0 +1,4 @@
+Epee;Min=2;Max=20
+Masse;Min=15;Max=20
+Hache;Min=5;Max=15
+Hallebarde;Min=8;Max=12

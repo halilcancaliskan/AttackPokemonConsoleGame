@@ -1,0 +1,6 @@
+Coup brutal;Puissance=2;Epee
+Tourbillon;Puissance=1.5;Hache
+Estoc;Puissance=3.5;Epee
+Coup vertical;Puissance=1.2;Hallebarde
+Javelot;Puissance=5;Hallebarde
+Fendoir;Puissance=3.7;Hache

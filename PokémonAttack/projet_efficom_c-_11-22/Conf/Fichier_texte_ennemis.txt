@@ -1,0 +1,5 @@
+Orc;PdV=20;Min=1;Max=20
+Gobelin;PdV=10;Min=4;Max=20
+Troll;PdV=70;Min=30;Max=40
+Gobelin;PdV=10;Min=4;Max=20
+Sorcier;PdV=40;Min=10;Max=60
